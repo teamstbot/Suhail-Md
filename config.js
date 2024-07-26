@@ -21,7 +21,8 @@ global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md"
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ" 
+global.caption = process.env.CAPTION || global.caption || "*_🇲‌𝐮𝐝𝐚𝐬𝐢𝐫  ☻︎ 🇸𝐩𝐨𝐫𝐭𝐬™⁹⁵_* 
+~√ᵀᴱᴬᴹ  ᴹˢᵀ⁹⁵ ⁰³²³⁹⁹⁵⁶⁴⁷⁶~" 
 
 
 global.devs = "923184474176" // Developer Contact
